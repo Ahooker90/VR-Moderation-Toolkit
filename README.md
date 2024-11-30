@@ -63,3 +63,18 @@ Our system significantly outperforms current tools in detecting explicit content
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+## Cite This Work
+
+If you use the **VR Moderation Toolkit** in your research, please cite our paper and GitHub repository:
+
+### Citation for the Paper
+```bibtex
+@article{vrmoderation2024,
+  title={Moderating Illicit Virtual Reality Games via Multimodal Pretrained Models},
+  author={Your Name and Other Authors},
+  journal={To be published},
+  year={2024},
+  url={https://github.com/Ahooker90/VR-Moderation-Toolkit}
+}
