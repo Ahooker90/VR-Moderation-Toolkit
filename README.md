@@ -63,11 +63,3 @@ Our system significantly outperforms current tools in detecting explicit content
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
-
-
-
-
-
-
-
