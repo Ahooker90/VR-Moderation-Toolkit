@@ -32,6 +32,13 @@ Sourced from online platforms to test generalization.
 
 ---
 
+## Evaluation
+The system is tested on multiple datasets to benchmark performance. Key evaluation highlights:
+1. **Non-Human Data Points:** Demonstrates superior performance in detecting explicit content among non-human avatars.
+2. **Human Data Points:** Matches or exceeds leading moderation tools for human-centric explicit content.
+3. **Generalization Testing:** Outperforms other tools by up to 71% on user-generated VR content.
+
+
 ## Results
 
 ### In-Game Evaluation
@@ -54,6 +61,10 @@ Our system significantly outperforms current tools in detecting explicit content
    cd VR-Moderation-Toolkit
 
 2. Install dependencies:
+   '''bash
+   pip install -r requirements.txt
+
+
 
 
 
