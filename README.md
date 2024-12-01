@@ -63,8 +63,6 @@ Our system significantly outperforms current tools in detecting explicit content
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
-
 ## Cite This Work
 
 If you use the **VR Moderation Toolkit** in your research, please cite our paper and GitHub repository:
