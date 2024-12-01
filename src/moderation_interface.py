@@ -48,10 +48,6 @@ human_inputs = [
 ]
 
 
-
-
-
-
 # Monitoring parameters
 sampling_rate = 1.0  # Frames per second
 screen_region = None  # None for full screen or specify (x1, y1, x2, y2)
