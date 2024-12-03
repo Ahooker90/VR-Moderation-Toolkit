@@ -104,6 +104,8 @@ def classify_region(image):
 
 def monitor_screen():
     """Monitor the screen in real time and classify content."""
+    ## OpenCV implementation was not tested during paper evaulations this is shown as a proof of concept and needs further testing to validate
+    ## TODO: This currently on grabs images with 'person' classification to reduce noise. This should instead explore the OpenCV classification patterns for nonhuman avatars.
     try:
         while True:
             # Check system resources
