@@ -71,7 +71,7 @@ If you use the **VR Moderation Toolkit** in your research, please cite our paper
 ```bibtex
 @article{vrmoderation2024,
   title={Moderating Illicit Virtual Reality Games via Multimodal Pretrained Models},
-  author={Adam L. Hooker,Hilal Pataci, Kim-Kwang Raymond Choo, Nishant Vishwamitra},
+  author={},
   journal={To be published},
   year={2024},
   url={https://github.com/Ahooker90/VR-Moderation-Toolkit}
